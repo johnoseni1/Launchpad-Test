@@ -1,0 +1,6 @@
+{
+    "testMode": true,
+    "loanAmount": 100,
+    "apiKey": "YOU_API_KEY",
+    "apiSecret": "YOUR_API_SECRET"
+}
