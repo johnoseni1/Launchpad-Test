@@ -1,7 +1,6 @@
 {
-  "name": "binance-launchpad testing",
+  "name": "launchpad testing",
   "version": "1.0.0",
-  "author" : "John Oseni",
   "description": "",
   "main": "index.js",
   "scripts": {
